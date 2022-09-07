@@ -1,0 +1,295 @@
+.container{
+    border: 1px solid #616161;
+    width:55%;
+    margin-left: 20%;
+    border-radius: 10px;
+}
+
+.heading{
+    /* border: 1px solid red; */
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 40px;
+    color: #616161;
+}
+.crossign{
+    margin-left: 44.5%;
+   font-weight: lighter;
+   cursor: pointer;
+}
+.heading1{
+    /* border: 1px solid red; */
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 10px;
+}
+
+/* ------------------------------innercontainer---------------------------------- */
+
+.innercontainer{
+    /* border: 1px solid red; */
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 10%;
+}
+.inner1{
+/* border: 1px solid red; */
+}
+.h3{
+    color: #616161;
+}
+.inner2{
+    /* border: 1px solid red; */
+}
+.p1{
+    font-size: 12px;
+    margin-top: -15px;
+    color: #CFD8DC;
+}
+.mode{
+    /* border: 1px solid  red; */
+    font-size: 10px;
+    margin-left: 8%;
+    margin-top: 25px;
+    margin-bottom: -.5px;
+    color: #CFD8DC;
+}
+.mode2{
+    /* border: 1px solid  red; */
+    font-size: 10px;
+    margin-left: 8%;
+    margin-top: 25px;
+    margin-bottom: -20px;
+    color: #CFD8DC;
+}
+.mode3{
+    /* border: 1px solid  red; */
+    font-size: 10px;
+    margin-left: 8%;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    color: #CFD8DC;
+}
+.p12{
+    color: #CFD8DC;
+    margin-bottom: 30px;
+}
+/* ------------------------------Dropdown----------------------------- */
+.select{
+    padding: 10px 20px;
+    width: 100%;
+}
+.select1{
+    padding: 10px 20px;
+    width: 100%;
+}
+.delete{
+    font-size:24px;
+    
+}
+
+/* -------------------------------Input--------------------------------------- */
+.inputcomponent{
+    margin-top: 10px;
+    /* border: 1px solid red; */
+}
+.rupee{
+    border: 2px solid #ECEFF1;
+    font-size: 25px;
+    padding: 0px 12px;
+    padding-top: 1px;
+    padding-bottom: 9px;
+    background-color: #ECEFF1;
+}
+.input{
+    border: 2px solid #ECEFF1;
+    padding: 10px 10px;
+    padding-right: 21%;
+    width: 61.2%;
+    margin-top: 10px;
+}
+.warning{
+    /* border: 1px solid red; */
+    color: yellow;
+    font-size: 25px;
+    width: 10%;
+    margin-left: 80%;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.warning2{
+    /* border: 1px solid red; */
+    color: red;
+    font-size: 25px;
+    width: 10%;
+    margin-left: 80%;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.delete{
+    /* border: 1px solid red; */
+    width: 10%;
+    margin-left: 90%;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.warn1{
+    font-size: 7px;
+    color: #FFD54F;
+    margin-top: 15px;
+    margin-left: 65%;
+}
+.warn2{
+    font-size: 7px;
+    color: #D50000;
+    margin-top: 15px;
+    margin-left: 55%;
+}
+.button{
+    background-color: #37474F;
+    color: antiquewhite;
+    width: 100%;
+    font-size:15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.button2{
+    background-color: #D1D1D1;
+    color: antiquewhite;
+    width: 100%;
+    font-size:15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.p12{
+    font-size: 11px;
+}
+.p123{
+    font-size: 15px;
+    font-weight: bold;
+    color: #37474F;
+    margin-left: 30%;
+    /* margin-bottom: 50px; */
+}
+
+
+/* -------------------------inner2--------------------------- */
+
+.inner2{
+    /* border: 1px solid red; */
+    background-color: #ECEFF1;
+    color: #B0BEC5;
+    margin-bottom: 50px;
+    border-radius: 2px;
+}
+.h31{
+    color: #616161;
+    margin-left:25px;
+}
+.p15{
+    font-size: 12px;
+    margin-top: -15px;
+    color: #CFD8DC;
+    margin-left:25px;
+}
+.spanall{
+    /* border: 1px solid red; */
+    margin-bottom: 10px;
+    margin-left:25px;
+
+}
+
+.span1{
+    /* border: 1px solid red; */
+    margin-bottom: 10px;
+    font-size: 13px;
+    
+    
+}
+.span2{
+    /* border: 1px solid red; */
+    padding-left: 35%;
+}
+.span21{
+    /* border: 1px solid red; */
+    padding-left: 29%;
+}
+.span22{
+    /* border: 1px solid red; */
+    padding-left: 43%;
+}
+.span23{
+    /* border: 1px solid red; */
+    padding-left: 27%;
+}
+.span24{
+    /* border: 1px solid red; */
+    padding-left: 63%;
+}
+.span25{
+    /* border: 1px solid red; */
+    padding-left: 38%;
+}
+.span26{
+    /* border: 1px solid red; */
+    padding-left: 31%;
+}
+.span27{
+    /* border: 1px solid red; */
+    padding-left: 49%;
+}
+.span28{
+    /* border: 1px solid red; */
+    padding-left: 45%;
+}
+.span29{
+    /* border: 1px solid red; */
+    padding-left: 45%;
+}
+
+.last{
+    /* border: 1px solid red; */
+    width: 20%;
+}
+
+.lastspan{
+    border: 1px solid red;
+    margin-top: 10px;
+    /* margin-left: 60%;
+    margin-top: 10%;
+    padding-left: 10px;
+    padding-right: 10px; */
+    
+}
+.lastdiv{
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    background-color: #CFD8DC;
+    color: #212121;
+    /* height: 80px; */
+    padding-bottom: 35px;
+}
+.lastdiv1{
+    /* border: 1px solid red; */
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 8%;
+    padding-top: 5px;
+}
+.lastp{
+    margin-top: -20px;
+    font-size: 12px;
+}
+.lastdiv2{
+    /* border: 1px solid red; */
+    width: 25%;
+    margin-left: 75%;
+    margin-top: -40px;
+   
+    
+}
