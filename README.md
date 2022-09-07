@@ -26,7 +26,7 @@ c.Follow all standard coding guidelines.
 
 ## Useful Links :
 - **Github repo link : https://github.com/Karu555/relataIo**
-- **Deployment link :  https://deltaxassignmentkarunesh.netlify.app/**
+<!-- - **Deployment link :  https://deltaxassignmentkarunesh.netlify.app/** -->
 
 ### Screenshots :
 
